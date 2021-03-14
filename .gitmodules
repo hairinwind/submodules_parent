@@ -1,0 +1,3 @@
+[submodule "submodules_sub"]
+	path = submodules_sub
+	url = https://github.com/hairinwind/submodules_sub.git
